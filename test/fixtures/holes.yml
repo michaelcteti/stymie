@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  round: one
+  course_hole: one
+  score: 1
+  ipd: false
+  gir: false
+  putt_one: 1
+  putt_two: 1
+  putt_three: 1
+  putt_four: 1
+
+two:
+  round: two
+  course_hole: two
+  score: 1
+  ipd: false
+  gir: false
+  putt_one: 1
+  putt_two: 1
+  putt_three: 1
+  putt_four: 1
